@@ -23,7 +23,7 @@ URL CloudRun: [https://go-expert-cep-cloudrun-tg3vmarlxq-uc.a.run.app](https://g
 Clonar o repositório
 
 Preencha sua API_KEY no docker-compose:
-https://github.com/aluferraz/go-expert-cep-cloudrun/blob/48e1a7ade24732f5b557370e27d5546d06406ab1/docker-compose.yml#L8C1-L9C39
+https://github.com/leo12wb/go-expert-cep-cloudrun/blob/48e1a7ade24732f5b557370e27d5546d06406ab1/docker-compose.yml#L8C1-L9C39
 
 Em desenvolvimento, voce também pode criar um arquivo .env na raíz do projeto:
 ```
